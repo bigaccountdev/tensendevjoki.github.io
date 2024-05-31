@@ -7379,7 +7379,7 @@ a.close.disabled {
 
 .bg-primary {
     /* background-color: var(--primary) !important */
-    background: url(/assets/img/WebBannerNoText.png);
+    background: url(/assets/img/webbannernotext.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
